@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=KFilter Datei
+Comment[de]=KFilter Datei
+DefaultApp=kfilter
+Icon=kfilter32.png
+MimeType=application/kfilter
+Name[de]=kfilter
+Patterns=*.kfp;
+Type=MimeType

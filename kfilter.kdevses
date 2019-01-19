@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <LastCompileConfig>(Default)</LastCompileConfig>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="23" >
+  <Doc0 CursorPosLine="19" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilterui.rc" >
+   <View0 Top="22" Width="400" Attach="1" Height="300" Left="3" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 CursorPosLine="357" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="25" FileName="/home/martin/prog/kfilter/kfilter/kfilter.cpp" >
+   <View0 Top="42" Width="785" Attach="1" Height="658" Left="23" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc1>
+  <Doc2 CursorPosLine="76" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilter.h" >
+   <View0 Top="62" Width="785" Attach="1" Height="459" Left="43" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc2>
+  <Doc3 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/circuitout.cpp" >
+   <View0 Top="82" Width="785" Attach="1" Height="459" Left="63" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc3>
+  <Doc4 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/circuitout.h" >
+   <View0 Top="102" Width="785" Attach="1" Height="656" Left="83" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc4>
+  <Doc5 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/colordialog.cpp" >
+   <View0 Top="122" Width="785" Attach="1" Height="656" Left="103" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc5>
+  <Doc6 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/colordialog.h" >
+   <View0 Top="142" Width="785" Attach="1" Height="459" Left="123" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc6>
+  <Doc7 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/networkdialog.cpp" >
+   <View0 Top="162" Width="785" Attach="1" Height="459" Left="143" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc7>
+  <Doc8 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/networkdialog.h" >
+   <View0 Top="182" Width="819" Attach="1" Height="589" Left="163" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc8>
+  <Doc9 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/volumedialog.cpp" >
+   <View0 Top="202" Width="819" Attach="1" Height="589" Left="183" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc9>
+  <Doc10 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/volumedialog.h" >
+   <View0 Top="222" Width="841" Attach="1" Height="575" Left="203" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc10>
+  <Doc11 CursorPosLine="79" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="67" FileName="/home/martin/prog/kfilter/kfilter/wizard.cpp" >
+   <View0 Top="242" Width="690" Attach="1" Height="575" Left="223" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc11>
+  <Doc12 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/wizard.h" >
+   <View0 Top="262" Width="690" Attach="1" Height="575" Left="243" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc12>
+  <Doc13 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/driver.cpp" >
+   <View0 Top="282" Width="690" Attach="1" Height="575" Left="263" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc13>
+  <Doc14 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/driver.h" >
+   <View0 Top="302" Width="690" Attach="1" Height="575" Left="283" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc14>
+  <Doc15 CursorPosLine="20" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="21" FileName="/home/martin/prog/kfilter/kfilter/driverinput.cpp" >
+   <View0 Top="322" Width="690" Attach="1" Height="575" Left="303" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc15>
+  <Doc16 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/driverinput.h" >
+   <View0 Top="342" Width="690" Attach="1" Height="575" Left="323" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc16>
+  <Doc17 CursorPosLine="45" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilterdoc.h" >
+   <View0 Top="362" Width="690" Attach="1" Height="575" Left="343" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc17>
+  <Doc18 CursorPosLine="37" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilterview.h" >
+   <View0 Top="382" Width="690" Attach="1" Height="575" Left="363" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc18>
+  <Doc19 CursorPosLine="145" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="16" FileName="/home/martin/prog/kfilter/kfilter/kfilterdoc.cpp" >
+   <View0 Top="380" Width="696" Attach="1" Height="600" Left="380" Focus="1" Type="KWriteView" MinMaxMode="2" />
+  </Doc19>
+  <Doc20 CursorPosLine="53" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/main.cpp" >
+   <View0 Top="422" Width="690" Attach="1" Height="575" Left="403" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc20>
+  <Doc21 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilter.desktop" >
+   <View0 Top="442" Width="690" Attach="1" Height="575" Left="423" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc21>
+  <Doc22 CursorPosLine="30" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/martin/prog/kfilter/kfilter/kfilterview.cpp" >
+   <View0 Top="22" Width="785" Attach="1" Height="460" Left="443" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc22>
+ </DocsAndViews>
+</KDevPrjSession>

@@ -1,0 +1,15 @@
+# KDE Config File
+[Desktop Entry]
+Encoding=UTF-8
+BinaryPattern=kfilter
+MimeType=application/kfilter
+Patterns=*.kfp;
+Type=Application
+Exec=kfilter -caption "%c" %i %m
+Icon=kfilter.png
+DocPath=kfilter/index.html
+Comment=
+Comment[de]=
+Terminal=0
+Name=KFilter
+Name[de]=KFilter
